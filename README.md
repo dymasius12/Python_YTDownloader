@@ -12,6 +12,10 @@ Some Important notes:
 ```
 python ytDownloader.py <links> 
 ```
+or
+```
+python3 ytDownloader.py <links> 
+```
 
 ### More references:
 https://pytube.io/en/latest/
