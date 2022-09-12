@@ -10,4 +10,4 @@ print("View: ", yt.views)
 
 yd = yt.streams.get_highest_resolution()
 
-yd.download('/Users/dymas/development/Python/Python_YoutubeDownloader/Py_YTDownloader/downloaded')
+yd.download('./downloaded')
