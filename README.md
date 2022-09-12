@@ -9,7 +9,9 @@ Some Important notes:
 2. This is my own requirements.txt: requirements.txt
 
 ### How to use: 
->python ytDownloader.py <links> 
+'''
+python ytDownloader.py <links> 
+'''
 
 ### More references:
 https://pytube.io/en/latest/
